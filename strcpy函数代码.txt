@@ -21,3 +21,8 @@ char *StrCpy(char *src){
 远程edict
 B20150128高绍坤
 **/
+
+
+/**
+local edit
+**/
