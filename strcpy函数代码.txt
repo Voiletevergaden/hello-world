@@ -16,3 +16,8 @@ char *StrCpy(char *src){
     dst[len]='\0';
     return dst;
 }
+
+/**
+远程edict
+B20150128高绍坤
+**/
